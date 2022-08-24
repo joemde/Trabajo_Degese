@@ -24,8 +24,11 @@
             ],
             "styles": [
               "src/styles.css"
+              "Trabajo_Degese/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "Trabajo_Degese/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
